@@ -1,0 +1,243 @@
+
+
+body {
+    margin: 0;
+}
+
+
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.top {
+    display: flex;
+    background-color: #263238;
+    justify-content: space-between;
+}
+.logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: none;
+    margin: 20px;
+}
+.links {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    justify-content: center;
+    margin-right: 10px;
+    color: white; 
+    font-family: Impact, 'Arial Narrow Bold', sans-serif
+}
+
+.introduction {
+    background-color: #ECEFF1;
+    font-weight: 550; 
+    padding: 20px 40px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+   
+
+}
+
+.text-section {
+    display: flex;
+    flex-direction: column; 
+    text-align: left;
+    padding: 25px;
+    min-width: 300px;
+    max-width: 350px;
+   
+}
+
+.sign-top {
+    display: block;
+    border: #263238 solid 2px;
+    background-color: #81C784;
+    color: #263238;
+    width: 70px;
+    margin-top: 7px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.football-image {
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 5px;
+    border: #ECEFF1;
+}
+
+
+.heading1 {
+    margin-bottom: 0;
+}
+.text1 {
+    margin-top: 0;
+    font-weight: 200;
+}
+
+
+
+.content {
+    background-color: #ffffff;
+    color: #263238;
+    margin: 5px 50px;
+}
+
+.content-title {
+   color: #263238;
+   text-align: center;
+   background-color: #ffffff;
+   padding: 20px;
+   padding-bottom: 0px;
+   font-family:Impact, 'Arial Narrow Bold', sans-serif
+   
+}
+
+.pictures {
+    display: flex;
+    justify-content: space-between; 
+    gap: 30px;
+    min-width: 200px;
+    font-weight: 550;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif
+    
+}
+
+
+
+.picture1, .picture2, .picture3, .picture4 {
+  
+  
+}
+
+
+img { 
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    border: #81C784 solid 5px;
+    border-radius: 10px;
+    background-color: #81C784;
+    margin-bottom: 10px;
+}
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ECEFF1;
+    padding: 50px;
+    margin-top: 20px;
+}
+
+.quote {
+  text-align: left;
+  max-width: 300px;
+  margin: auto;
+  font-size: 20px;
+
+    
+}
+
+.author {
+  display: flex;
+  justify-content: center;
+  margin-left: 120px;
+  margin-top: 4px;
+}
+
+
+.footer {
+    background-color: #ffffff;
+    padding: 30px 30px;
+}
+
+.block {
+    display: flex;
+   margin: 20px auto;
+   border: #263238 solid 4px;
+   background-color: #81C784;
+   width: fit-content; 
+   padding: 5px 10px;
+}
+
+.text2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.bold {
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+
+.light {
+    margin-top: 0px;
+}
+
+.sign-bottom {
+    display: block;
+    border:#263238 solid 2px;
+    background-color:#263238;
+    color:#ECEFF1;
+    width: 70px;  
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: auto 10px;
+    margin-left: 20px;
+}
+
+.bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: #263238;
+    color: #ECEFF1;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif ;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+   
+    
+    
+    
+    
+    
+ 
+
+
+
+
+
+
+
+
+
+
+
